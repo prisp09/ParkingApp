@@ -5,5 +5,5 @@ to access the officer and/or customer GUIs.
 
 Admin access -->  Email: admin
 				  Pass: admin
-Made by psp09
-Priyanshu Patel - 216160160
+Made by-
+Priyanshu Patel
